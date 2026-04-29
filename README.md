@@ -17,6 +17,42 @@
 
 ---
 
+## Скриншоты проекта
+
+<div align="center">
+
+### Главная страница
+
+![Главная страница MongoDB Practice Hub](./docs/screenshots/home.png)
+
+### Mongo Search
+
+![Раздел Mongo Search](./docs/screenshots/mongo-search.png)
+
+### Каталог товаров
+
+![Каталог товаров](./docs/screenshots/catalog.png)
+
+### Объявления
+
+![Раздел объявлений](./docs/screenshots/ads.png)
+
+### Мои объявления
+
+![Мои объявления](./docs/screenshots/my-ads.png)
+
+### Связи между коллекциями
+
+![Связи между коллекциями](./docs/screenshots/relations.png)
+
+### Видео и блогеры
+
+![Видео и блогеры](./docs/screenshots/videos.png)
+
+</div>
+
+---
+
 ## Основные возможности
 
 - Безопасный поиск по MongoDB прямо из браузера.
