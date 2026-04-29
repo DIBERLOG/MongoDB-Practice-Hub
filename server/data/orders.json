@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6418035801d82c7131cee4aa"
+  },
+  "user": "tester@mail.ru",
+  "product": "Бургер"
+},{
+  "_id": {
+    "$oid": "6418035801d82c7131cee4ab"
+  },
+  "user": "flower@mail.ru",
+  "product": "Бургер"
+},{
+  "_id": {
+    "$oid": "6418035801d82c7131cee4ac"
+  },
+  "user": "flower@mail.ru",
+  "product": "Пицца"
+},{
+  "_id": {
+    "$oid": "6418035801d82c7131cee4ad"
+  },
+  "user": "admin@mail.ru",
+  "product": "Роллы"
+}]

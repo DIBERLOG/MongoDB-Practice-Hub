@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "641802b701d82c7131cee49f"
+  },
+  "email": "tester@mail.ru",
+  "address": "Москва, ул Главная, д 1"
+},{
+  "_id": {
+    "$oid": "641802b701d82c7131cee4a0"
+  },
+  "email": "admin@mail.ru",
+  "address": "Москва, ул Спортивная, д 2"
+},{
+  "_id": {
+    "$oid": "641802b701d82c7131cee4a1"
+  },
+  "email": "hello@mail.ru",
+  "address": "Москва, ул Замечательная, д 3"
+},{
+  "_id": {
+    "$oid": "641802b701d82c7131cee4a2"
+  },
+  "email": "flower@mail.ru",
+  "address": "Москва, ул Широкая, д 4"
+}]
